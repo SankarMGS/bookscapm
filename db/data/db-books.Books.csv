@@ -1,0 +1,6 @@
+ID,title,author,price,publishedDate,digitalCopy
+550e8400-e29b-41d4-a716-446655440000,Clean Code,Robert C. Martin,45.99,2023-01-15T10:30:00Z,true
+6ba7b810-9dad-11d1-80b4-00c04fd430c8,Effective Java,Joshua Bloch,55.50,2022-08-10T09:00:00Z,false
+123e4567-e89b-12d3-a456-426614174000,Design Patterns,Erich Gamma,60.75,2021-05-20T14:15:00Z,true
+f47ac10b-58cc-4372-a567-0e02b2c3d479,JavaScript The Good Parts,Douglas Crockford,35.25,2020-11-01T16:45:00Z,true
+9f8c7d6e-5b4a-3210-9876-abcdef123456,SAP CAP Development,John Doe,49.99,2024-03-12T12:00:00Z,false
